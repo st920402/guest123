@@ -9,10 +9,10 @@ public class TestManager : MonoBehaviour
 	void Start () {
         
 		Panel.gameObject.SetActive(true);
-	    Panel.Title = "系統訊息";
-	    Panel.Content = "aaa\nbbb\n";
-	    Panel.YesText = "沒有問題";
-	    Panel.NoText = "我";
+	    Panel.Title = "系統通知";
+	    Panel.Content = "123/456/789";
+	    Panel.YesText = "好";
+	    Panel.NoText = "不好";
 	}
 	
 	// Update is called once per frame
