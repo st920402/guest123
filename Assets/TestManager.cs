@@ -12,7 +12,7 @@ public class TestManager : MonoBehaviour
 	    Panel.Title = "系統訊息";
 	    Panel.Content = "aaa\nbbb\n";
 	    Panel.YesText = "沒有問題";
-	    Panel.NoText = "我才不要";
+	    Panel.NoText = "我";
 	}
 	
 	// Update is called once per frame
